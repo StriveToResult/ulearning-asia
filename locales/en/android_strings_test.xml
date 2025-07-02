@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ↓↓↓↓↓↓↓↓↓↓↓↓↓  Serialize data without translation/无需翻译，序列化数据-->
+    <string name="Space">个人空间</string>
+   <string name="Classroom">AI能力中心</string>
+</resources>
